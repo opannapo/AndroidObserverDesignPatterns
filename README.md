@@ -13,3 +13,6 @@ After you change the data on the "Edit Profile" page, Observer serves to tell th
 
 The Observer have a method you must Override to get updated object.
 In this method you can to change the UI component data if required.
+
+
+Output: https://www.youtube.com/watch?v=B9VXe432sys
